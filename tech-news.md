@@ -6,3 +6,11 @@
 - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)
 - [A third world engineer responds to “RISC-V: They should have known better”](https://rvembedded.com/blog_post/12/)
 
+## 2026-08-17 16:32 UTC
+
+- [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights)
+- [AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+- [GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)
+- [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://speko.ai/)
+- [How to disable or avoid intrusive AI](https://www.librarian.net/notoai/)
+
