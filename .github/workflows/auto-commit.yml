@@ -1,0 +1,41 @@
+name: Daily Auto Commit
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+    - cron: '0 8 * * *'
+    - cron: '0 12 * * *'
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch top tech news
+        run: |
+          echo "## $(date -u '+%Y-%m-%d %H:%M UTC')" >> tech-news.md
+          echo "" >> tech-news.md
+          
+          TOP_IDS=$(curl -s https://hacker-news.firebaseio.com/v0/topstories.json | jq '.[0:5]')
+          
+          for id in $(echo "$TOP_IDS" | jq -r '.[]'); do
+            STORY=$(curl -s "https://hacker-news.firebaseio.com/v0/item/${id}.json")
+            TITLE=$(echo "$STORY" | jq -r '.title')
+            URL=$(echo "$STORY" | jq -r '.url // "https://news.ycombinator.com/item?id='"$id"'"')
+            echo "- [$TITLE]($URL)" >> tech-news.md
+          done
+          
+          echo "" >> tech-news.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tech-news.md
+          git commit -m "news: top tech stories $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
