@@ -38,3 +38,11 @@
 - [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
 - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
 
+## 2026-08-18 16:35 UTC
+
+- [Using the railway network as a flatbed scanner](https://philo.gay/linecam/)
+- [The Amazon Tax](https://seths.blog/2026/08/the-amazon-tax/)
+- [Fixing a Bricked Framework Laptop](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/)
+- [How I Under-Engineered My Book](https://chriskiehl.com/article/how-i-under-engineered-my-book)
+- [Apple announces changes for apps in the European Union](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/)
+
