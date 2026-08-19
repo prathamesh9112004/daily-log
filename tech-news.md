@@ -54,3 +54,11 @@
 - [Cerebras CS-4](https://www.cerebras.ai/cs4)
 - [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
 
+## 2026-08-19 08:47 UTC
+
+- [OpenLogi](https://openlogi.org/en)
+- [Where Human Sleep Went Wrong](https://nautil.us/where-human-sleep-went-wrong-1283797)
+- [Cerebras CS-4](https://www.cerebras.ai/cs4)
+- [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
+- [Supersonic Trebuchet [video]](https://www.youtube.com/watch?v=Co57SfcT-h0)
+
