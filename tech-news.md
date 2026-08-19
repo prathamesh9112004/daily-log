@@ -70,3 +70,11 @@
 - [Cerebras CS-4](https://www.cerebras.ai/cs4)
 - [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/)
 
+## 2026-08-19 16:35 UTC
+
+- [Civic Hygiene – avoid building technologies that could be used by a police state](https://shkspr.mobi/blog/2013/11/civic-hygiene/)
+- [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)
+- [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
+- [OpenLogi](https://openlogi.org/en)
+- [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
+
