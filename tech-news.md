@@ -46,3 +46,11 @@
 - [How I Under-Engineered My Book](https://chriskiehl.com/article/how-i-under-engineered-my-book)
 - [Apple announces changes for apps in the European Union](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/)
 
+## 2026-08-19 03:34 UTC
+
+- [New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf)
+- [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
+- [OpenLogi](https://openlogi.org/en)
+- [Cerebras CS-4](https://www.cerebras.ai/cs4)
+- [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
+
