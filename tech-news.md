@@ -62,3 +62,11 @@
 - [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
 - [Supersonic Trebuchet [video]](https://www.youtube.com/watch?v=Co57SfcT-h0)
 
+## 2026-08-19 12:31 UTC
+
+- [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730)
+- [OpenLogi](https://openlogi.org/en)
+- [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)
+- [Cerebras CS-4](https://www.cerebras.ai/cs4)
+- [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/)
+
