@@ -78,3 +78,11 @@
 - [OpenLogi](https://openlogi.org/en)
 - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
 
+## 2026-08-20 03:34 UTC
+
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+- [Go 1.27](https://go.dev/blog/go1.27)
+- [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023)
+- [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka)
+- [Turns are Better than Radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
+
