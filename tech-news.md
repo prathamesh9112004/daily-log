@@ -86,3 +86,11 @@
 - [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka)
 - [Turns are Better than Radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
+## 2026-08-20 08:49 UTC
+
+- [Don't Paste the AI, please](https://dontpastetheai.com/)
+- [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+- [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
+- [Go 1.27](https://go.dev/blog/go1.27)
+
