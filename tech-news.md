@@ -102,3 +102,11 @@
 - [Windows brings out the Rorschach test in everyone (2003)](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 - [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/)
 
+## 2026-08-20 16:38 UTC
+
+- [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
+- [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
+- [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/)
+- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
+- [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/)
+
