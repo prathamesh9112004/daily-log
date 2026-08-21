@@ -110,3 +110,11 @@
 - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
 - [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/)
 
+## 2026-08-21 03:38 UTC
+
+- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html)
+- [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
+- [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
+- [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
+- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
+
