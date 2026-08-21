@@ -126,3 +126,11 @@
 - [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
 - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
 
+## 2026-08-21 12:32 UTC
+
+- [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
+- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)
+- [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)
+- [Small, native web tricks worth remembering](https://htmlcat.net/)
+- [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
+
