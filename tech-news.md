@@ -166,3 +166,11 @@
 - [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
 - [Felony Bench](https://www.felonybench.com/)
 
+## 2026-08-22 16:29 UTC
+
+- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
+- [A Kantian Critique of "Sorry" by Justin Bieber](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/)
+- [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
+- [The New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
+- [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
+
