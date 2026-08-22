@@ -150,3 +150,11 @@
 - [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
 - [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
+## 2026-08-22 08:38 UTC
+
+- [Felony Bench](https://www.felonybench.com/)
+- [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
+- [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
+- [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
+- [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
+
