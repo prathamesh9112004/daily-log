@@ -158,3 +158,11 @@
 - [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
 - [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
 
+## 2026-08-22 12:23 UTC
+
+- [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)
+- [Z80–The 1970s Microprocessor Still Alive](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
+- [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
+- [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
+- [Felony Bench](https://www.felonybench.com/)
+
