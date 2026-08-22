@@ -142,3 +142,11 @@
 - [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
 - [I accidentally logged phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
 
+## 2026-08-22 03:30 UTC
+
+- [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
+- [Felony Bench](https://www.felonybench.com/)
+- [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
+- [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
+- [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
+
