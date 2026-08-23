@@ -190,3 +190,11 @@
 - [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
 - [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
 
+## 2026-08-23 12:24 UTC
+
+- [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
+- [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
+- [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o)
+- [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/)
+- [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
+
