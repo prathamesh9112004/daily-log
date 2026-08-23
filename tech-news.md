@@ -174,3 +174,11 @@
 - [The New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
 - [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
 
+## 2026-08-23 03:38 UTC
+
+- [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491)
+- [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
+- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
+- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
+- [Hister – A private, full content search index that you control](https://hister.org/)
+
