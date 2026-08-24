@@ -206,3 +206,11 @@
 - [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/)
 - [Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/)
 
+## 2026-08-24 03:41 UTC
+
+- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
+- [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
+- [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+- [Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel](https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps)
+- [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html)
+
