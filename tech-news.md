@@ -222,3 +222,11 @@
 - [The Work Number: credit score but for your employment history – by Equifax](https://employees.theworknumber.com)
 - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 
+## 2026-08-24 12:34 UTC
+
+- [SeL4 security proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21)
+- [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625)
+- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
+- [Omakase Computing](https://learn.omacom.io/3/omacom/76/omakase-computing)
+- [Omacom Foundation funding hits $10M](https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/)
+
