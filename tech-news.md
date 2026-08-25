@@ -254,3 +254,11 @@
 - [Nostr is an inclusive communication commons](https://nostr.org/)
 - [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
 
+## 2026-08-25 12:33 UTC
+
+- [Quantum battery upends the rules of charging](https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets)
+- [Don't Wordle](https://dontwordle.com/)
+- [HelloAssembly The smallest possible complete Windows application](https://github.com/PlummersSoftwareLLC/HelloAssembly)
+- [Credit Card Rewards Became a $9.2B Wealth Transfer](https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer)
+- [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
+
