@@ -294,3 +294,11 @@
 - [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
 - [Value Classes Still Need Compiler Sympathy](https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/)
 
+## 2026-08-26 16:50 UTC
+
+- [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)
+- [AWS Acquires DuckDB](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws)
+- [Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency](https://qwen.ai/blog?id=qwen3.8-flash-next)
+- [Nebula Sans](https://www.nebulasans.com)
+- [France reaches 94.9% fiber coverage in 2026](https://cartefibre.arcep.fr)
+
