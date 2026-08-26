@@ -286,3 +286,11 @@
 - [Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
 - [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
 
+## 2026-08-26 12:37 UTC
+
+- [Omarchy is full of security holes](https://blog.happyfellow.dev/merchants-of-insecurity/)
+- [RAG Is Simpler Than You Think](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think)
+- [Oldinsurancemaps.net is now a Charter Project](https://openstreetmap.us/news/2026/08/oim-charter-project/)
+- [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
+- [Value Classes Still Need Compiler Sympathy](https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/)
+
