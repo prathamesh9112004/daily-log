@@ -318,3 +318,11 @@
 - [Gemini Omni 1.1 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/)
 - [Decompiling a Nintendo 64 game in 84 days](https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/)
 
+## 2026-08-27 21:32 UTC
+
+- [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
+- [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
+- [507 Mechanical Movements](https://507movements.com/)
+- [Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force](https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc)
+- [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290)
+
