@@ -310,3 +310,11 @@
 - [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)
 - [U.S. State Department pauses immigrant visa applications](https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23)
 
+## 2026-08-27 19:00 UTC
+
+- [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
+- [507 Mechanical Movements](https://507movements.com/)
+- [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
+- [Gemini Omni 1.1 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/)
+- [Decompiling a Nintendo 64 game in 84 days](https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/)
+
