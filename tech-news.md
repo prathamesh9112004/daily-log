@@ -302,3 +302,11 @@
 - [Nebula Sans](https://www.nebulasans.com)
 - [France reaches 94.9% fiber coverage in 2026](https://cartefibre.arcep.fr)
 
+## 2026-08-27 13:08 UTC
+
+- [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
+- [Pollen Robotics (Hugging Face) Microduck](https://pollen-robotics.com/microduck/)
+- [Mechanical Turk shutting down September 30](https://www.mturk.com/)
+- [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)
+- [U.S. State Department pauses immigrant visa applications](https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23)
+
