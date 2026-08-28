@@ -342,3 +342,11 @@
 - [OpenAI: Migrating to HTTPX2](https://github.com/openai/openai-python/blob/main/httpx2.md)
 - [U.S. Sanctions Against the a/I Collective](https://www.inventati.org/)
 
+## 2026-08-28 20:08 UTC
+
+- [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
+- [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)
+- [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
+- [U.S. sanctions against the A/I Collective](https://www.inventati.org/)
+- [Inception-style curved map for turn-by-turn directions](https://www.orbify.eu/demo/)
+
