@@ -390,3 +390,11 @@
 - [Show HN: Typebase – A single-folder back end you write in TypeScript](https://typebase.io)
 - [Creating the Aetheryte Radio](https://haz.ee/posts/aetheryte-radio.html)
 
+## 2026-08-29 19:18 UTC
+
+- [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/)
+- [Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude)
+- [SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support)
+- [Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/)
+- [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/)
+
