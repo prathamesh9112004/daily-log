@@ -422,3 +422,11 @@
 - [Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]](https://www.youtube.com/watch?v=hpj6r6CjJf8)
 - [Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel](https://www.qubes-os.org/news/2026/08/29/qsb-118/)
 
+## 2026-08-30 19:11 UTC
+
+- [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
+- [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
+- [Coordination Headwind: How Organizations Are Like Slime Molds](https://komoroske.com/slime-mold/)
+- [Running SQLite Apps on Docker and Kubernetes with Litestream](https://openrun.dev/blog/litestream/)
+- [METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack](https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/)
+
