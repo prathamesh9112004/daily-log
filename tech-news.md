@@ -414,3 +414,11 @@
 - [Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]](https://www.youtube.com/watch?v=hpj6r6CjJf8)
 - [An implementation of Conway's Game of Life for Windows 3.1x and later](https://www.muppetlabs.com/~breadbox/software/windows.html)
 
+## 2026-08-30 15:49 UTC
+
+- [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
+- [No AI Fridays](https://noaifridays.com/)
+- [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/)
+- [Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]](https://www.youtube.com/watch?v=hpj6r6CjJf8)
+- [Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel](https://www.qubes-os.org/news/2026/08/29/qsb-118/)
+
