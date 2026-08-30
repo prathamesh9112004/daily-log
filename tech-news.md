@@ -406,3 +406,11 @@
 - [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
 - [California lawmakers unanimously pass Linux exemption from age-verification law](https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt)
 
+## 2026-08-30 13:44 UTC
+
+- [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/)
+- [Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel](https://www.qubes-os.org/news/2026/08/29/qsb-118/)
+- [Longest Straight Line Paths on Water or Land on the Earth (2018)](https://arxiv.org/abs/1804.07389)
+- [Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]](https://www.youtube.com/watch?v=hpj6r6CjJf8)
+- [An implementation of Conway's Game of Life for Windows 3.1x and later](https://www.muppetlabs.com/~breadbox/software/windows.html)
+
