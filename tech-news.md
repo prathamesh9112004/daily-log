@@ -430,3 +430,11 @@
 - [Running SQLite Apps on Docker and Kubernetes with Litestream](https://openrun.dev/blog/litestream/)
 - [METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack](https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/)
 
+## 2026-08-31 08:55 UTC
+
+- [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
+- [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
+- [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
+- [My hobby of building miniatures and taking pretty pictures](https://sandyuraz.com/blogs/tiny-cafe/)
+- [Highlighting My Code Based on How Much I Care](https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/)
+
