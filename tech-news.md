@@ -454,3 +454,11 @@
 - [The safest job from AI may be writing](http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html)
 - [ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/)
 
+## 2026-08-31 21:22 UTC
+
+- [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
+- [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
+- [Playa Phone](https://playaphone.com/)
+- [Show HN: Laser Graffiti](https://laser.consti.de)
+- ['Mad honey' that can stop your heart is being sold online](https://phys.org/news/2026-08-mad-honey-heart-sold-online.html)
+
