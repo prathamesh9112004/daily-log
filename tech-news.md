@@ -446,3 +446,11 @@
 - [ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/)
 - [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/)
 
+## 2026-08-31 18:33 UTC
+
+- [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
+- [Playa Phone](https://playaphone.com/)
+- [ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source](https://ravynos.com/)
+- [The safest job from AI may be writing](http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html)
+- [ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/)
+
