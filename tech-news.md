@@ -478,3 +478,11 @@
 - [Fastpotify](https://fastpotify.rocks/)
 - [EFF to Courts: Don't Rewrite Copyright over AI Hype](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
 
+## 2026-09-01 15:52 UTC
+
+- [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
+- [Ask HN: Who is hiring? (September 2026)](https://news.ycombinator.com/item?id=49522897)
+- [Io_uring Without Readahead](https://frn.sh/io-uring/)
+- [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)
+- [American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career](https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/)
+
