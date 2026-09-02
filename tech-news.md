@@ -518,3 +518,11 @@
 - [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435)
 - [Mistral now trains on user input by default, except on enterprise tier](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training)
 
+## 2026-09-02 19:17 UTC
+
+- [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
+- [A Note from LWN](https://lwn.net/Articles/1090585/)
+- [Paint.net 5.2 alpha now runs on Linux](https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/)
+- [Mistral now trains on user input by default, except on enterprise tier](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training)
+- [Biggest dark matter detector spots a single weird particle](https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle)
+
