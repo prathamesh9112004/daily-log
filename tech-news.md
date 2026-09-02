@@ -510,3 +510,11 @@
 - [Quasar 438B: Europe's Leading AI Model](https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model)
 - [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
 
+## 2026-09-02 15:45 UTC
+
+- [A Note from LWN](https://lwn.net/Articles/1090585/)
+- [Gemini 3.8 Flash](https://deepmind.google/models/model-cards/gemini-3-8-flash/)
+- [Biggest dark matter detector spots a single weird particle](https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle)
+- [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435)
+- [Mistral now trains on user input by default, except on enterprise tier](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training)
+
