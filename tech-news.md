@@ -502,3 +502,11 @@
 - [True Rate of Unemployment](https://www.lisep.org/tru)
 - [Salad Theory](https://saladtheory.github.io/)
 
+## 2026-09-02 12:42 UTC
+
+- [Commodore 64 released September 1, 1982](https://dfarq.homeip.net/commodore-64-released-september-1-1982/)
+- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
+- [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530)
+- [Quasar 438B: Europe's Leading AI Model](https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model)
+- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
+
