@@ -526,3 +526,11 @@
 - [Mistral now trains on user input by default, except on enterprise tier](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training)
 - [Biggest dark matter detector spots a single weird particle](https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle)
 
+## 2026-09-03 07:23 UTC
+
+- [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
+- [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
+- [The Computer Museum of America reclamation project](https://computer-museum.org/wp/)
+- [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html)
+- [Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight)
+
