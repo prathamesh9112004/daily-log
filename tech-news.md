@@ -542,3 +542,11 @@
 - [Invisible Companies](https://colossus.com/article/invisible-companies/)
 - [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
 
+## 2026-09-03 15:35 UTC
+
+- [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
+- [ChatGPT Is Throwing 404](https://chatgpt.com/)
+- [Any Human Ever – One life, drawn at random from all who have ever lived](https://anyhumanever.com/)
+- [Elevated Errors for Multiple Models](https://status.claude.com/incidents/461yvfrzpwtt)
+- [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
+
