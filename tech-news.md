@@ -574,3 +574,11 @@
 - [.name Termination](https://neil.fraser.name/news/2026/09/03/)
 - [O&O ShutUp10 – The antispy tool for Windows 10 and 11](https://www.oo-software.com/en/shutup10)
 
+## 2026-09-04 15:33 UTC
+
+- [Google AI Mode shows same products 21.6% more expensive than traditional search](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)
+- [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
+- [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+- [Ok, but Does It Scale?](https://spacetimedb.com/blog/how-does-spacetime-scale)
+
