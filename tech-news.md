@@ -558,3 +558,11 @@
 - [K2 Horizon: A connected fleet of six open models](https://ifm.ai/blog/k2/)
 - [Any Human Ever – One life, drawn at random from all who have ever lived](https://anyhumanever.com/)
 
+## 2026-09-04 07:26 UTC
+
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+- [.name Termination](https://neil.fraser.name/news/2026/09/03/)
+- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
+- [The largest electric aircraft just flew [video]](https://www.youtube.com/watch?v=nM86DBOqgPM)
+- [Project Xanadu: Even More Hindsight (2025)](https://gwern.net/xanadu)
+
