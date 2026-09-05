@@ -590,3 +590,11 @@
 - [Project HydraFusion: Frontier quality via multi-model orchestration](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/)
 - [IBM Bob](https://bob.ibm.com/)
 
+## 2026-09-05 07:07 UTC
+
+- [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+- [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
+- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
+- [Statichost.eu – European static site hosting](https://www.statichost.eu/)
+- [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
+
