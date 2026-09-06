@@ -622,3 +622,11 @@
 - [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
 - [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
 
+## 2026-09-06 07:19 UTC
+
+- [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
+- [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
+- [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers)
+- [The ColorChecker, photography's most important 24 squares, turns 50](https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/)
+- [OpenBSD Stories: Strange Medieval Devices](http://miod.online.fr/software/openbsd/stories/smd.html)
+
