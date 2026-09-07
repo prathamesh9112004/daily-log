@@ -678,3 +678,11 @@
 - [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
 - [Simple Is Not Small](https://jyn.dev/simple-is-not-the-same-as-small/)
 
+## 2026-09-07 19:43 UTC
+
+- [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
+- [bzip3](https://github.com/iczelia/bzip3)
+- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+- [Methods for Random Gradients](https://justinjay.wang/methods-for-random-gradients/)
+- [Simple Is Not Small](https://jyn.dev/simple-is-not-the-same-as-small/)
+
