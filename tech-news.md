@@ -670,3 +670,11 @@
 - [bzip3](https://github.com/iczelia/bzip3)
 - [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
 
+## 2026-09-07 16:59 UTC
+
+- [De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)
+- [bzip3](https://github.com/iczelia/bzip3)
+- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+- [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
+- [Simple Is Not Small](https://jyn.dev/simple-is-not-the-same-as-small/)
+
