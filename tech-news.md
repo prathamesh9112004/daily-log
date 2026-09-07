@@ -662,3 +662,11 @@
 - [Ask HN: Fable hacked my piano, can I release the results?](https://news.ycombinator.com/item?id=49577129)
 - [Ask HN: How do you manage skills files?](https://news.ycombinator.com/item?id=49589914)
 
+## 2026-09-07 14:10 UTC
+
+- [De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)
+- [Splash-free urinals for global sustainability and accessibility](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
+- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+- [bzip3](https://github.com/iczelia/bzip3)
+- [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
+
