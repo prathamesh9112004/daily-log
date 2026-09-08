@@ -710,3 +710,11 @@
 - [ZX Spectrum: Experimenting with 1-Bit Sound](https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/)
 - [Show HN: Copperhead – Hardware as Fast as Software](https://copperhead.sh/)
 
+## 2026-09-08 19:20 UTC
+
+- [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
+- [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
+- [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)
+- [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/)
+- [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
+
