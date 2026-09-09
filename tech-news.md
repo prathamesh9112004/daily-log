@@ -726,3 +726,11 @@
 - [Trying](https://gwern.net/on-really-trying)
 - ["Tweet" and the bird logo apparently enter the public domain](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)
 
+## 2026-09-09 12:53 UTC
+
+- [Flock Wants a Closely Surveilled World with No Exit](https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit)
+- [I advertise malicious software on Google Ads](https://xlii.space/eng/malicious-software-on-google-ads/)
+- [Desert Ant Labs: local, fast models that run on device](https://desertant.com/blog/introducing-desert-ant-labs/)
+- [Lotus Notes and the dangers of starting from scratch](https://buttondown.com/blog/lotus-notes-email)
+- [How An AI math breakthrough ignited a controversy](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
+
