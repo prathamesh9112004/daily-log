@@ -718,3 +718,11 @@
 - [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/)
 - [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
 
+## 2026-09-09 07:35 UTC
+
+- [Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)
+- [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)
+- [The Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/)
+- [Trying](https://gwern.net/on-really-trying)
+- ["Tweet" and the bird logo apparently enter the public domain](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)
+
