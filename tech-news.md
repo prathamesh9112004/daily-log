@@ -766,3 +766,11 @@
 - [Stockfish 19](https://stockfishchess.org/blog/2026/stockfish-19/)
 - [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
 
+## 2026-09-10 15:37 UTC
+
+- [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)
+- [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
+- [Amazon pilots ad services in ChatGPT](https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/)
+- [Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls](https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/)
+- [Tell HN: OpenAI keeps re-enabling the 'allow training' setting](https://news.ycombinator.com/item?id=49643556)
+
