@@ -750,3 +750,11 @@
 - [Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
 - [GPT-6 Astra, looped transformers, and hidden reasoning](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and)
 
+## 2026-09-10 07:31 UTC
+
+- [iPhone Duo](https://www.apple.com/iphone-duo/)
+- [All grown-ups were once children… but only few of them remember it](https://mathstodon.xyz/@tao/117244102901892965)
+- [Larger Pacific Striped Octopus](https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus)
+- [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
+- [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
+
