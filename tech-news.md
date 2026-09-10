@@ -758,3 +758,11 @@
 - [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
 - [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
 
+## 2026-09-10 12:51 UTC
+
+- [What algorithm did Windows XP use to choose your initial user picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
+- [Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls](https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/)
+- [Show HN: The same nine streaming subscriptions cost $702/year more than in 2021](https://honestlyranked.com/guides/streaming-price-increases/)
+- [Stockfish 19](https://stockfishchess.org/blog/2026/stockfish-19/)
+- [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
+
