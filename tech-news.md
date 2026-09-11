@@ -798,3 +798,11 @@
 - [So you want to use OpenRouter?](https://mmoustafa.com/blog/so-you-want-to-use-openrouter/)
 - [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
 
+## 2026-09-11 15:39 UTC
+
+- [Houthis 'take control' of key island in global shipping route](https://www.bbc.com/news/live/cmd683p01eljt)
+- [The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html)
+- [Logo Programming Language](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html)
+- [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)
+- [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude)
+
