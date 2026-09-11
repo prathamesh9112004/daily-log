@@ -790,3 +790,11 @@
 - [We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower](https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/)
 - [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
 
+## 2026-09-11 12:45 UTC
+
+- [The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html)
+- [RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
+- [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
+- [So you want to use OpenRouter?](https://mmoustafa.com/blog/so-you-want-to-use-openrouter/)
+- [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
+
