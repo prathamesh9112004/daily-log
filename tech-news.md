@@ -806,3 +806,11 @@
 - [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)
 - [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude)
 
+## 2026-09-11 19:03 UTC
+
+- [Top mathematicians are outraged by OpenAI's methods](https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods)
+- [Show HN: Toast, a beautiful by default in terminal IDE](https://github.com/paradise-runner/toast)
+- [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
+- [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
+- [Claude is only available to people over 18 years](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)
+
