@@ -830,3 +830,11 @@
 - [A misalignment of AI in mathematics](https://mathandai.org/)
 - [The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
 
+## 2026-09-12 14:46 UTC
+
+- [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)
+- [We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)
+- [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
+- [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI)
+- [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
+
