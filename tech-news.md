@@ -838,3 +838,11 @@
 - [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI)
 - [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
 
+## 2026-09-12 18:13 UTC
+
+- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
+- [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
+- [LG denies TV spying claims, says tracking and snooping concerns 'not true'](https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio)
+- [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
+- [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
+
