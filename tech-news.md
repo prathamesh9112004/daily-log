@@ -814,3 +814,11 @@
 - [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
 - [Claude is only available to people over 18 years](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)
 
+## 2026-09-12 07:21 UTC
+
+- [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
+- [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
+- [A misalignment of AI in mathematics](https://mathandai.org/)
+- [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
+- [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
+
