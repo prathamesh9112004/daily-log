@@ -870,3 +870,11 @@
 - ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet)
 - [TailTalk: A modern async user space AppleTalk stack with Rust and Tokio](https://github.com/FeralFirmware/TailTalk/)
 
+## 2026-09-13 18:39 UTC
+
+- [I'm being cyberattacked by Tesla, Inc](https://dreamstation.systems/personal/tesla.html)
+- [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
+- [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment)
+- [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
+- [CUDA for AMD on Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows)
+
