@@ -854,3 +854,11 @@
 - [American Medical Association Backs Classification of Nearsightedness as Disease](https://www.aao.org/newsroom/news-releases/detail/ama-backs-formal-classification-nearsightedness)
 - [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
 
+## 2026-09-13 13:15 UTC
+
+- [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
+- ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet)
+- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+- [TailTalk: A modern async user space AppleTalk stack with Rust and Tokio](https://github.com/FeralFirmware/TailTalk/)
+- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
+
