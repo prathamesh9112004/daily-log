@@ -846,3 +846,11 @@
 - [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
 - [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
 
+## 2026-09-13 07:40 UTC
+
+- [The Interim Computer Museum](https://icm.museum/)
+- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+- [When Anyone Can Build Software, Who Decides What Not to Build?](https://architectureintel.com/when-anyone-can-build-software-who-decides-what-not-to-build-ae07fdb370e4)
+- [American Medical Association Backs Classification of Nearsightedness as Disease](https://www.aao.org/newsroom/news-releases/detail/ama-backs-formal-classification-nearsightedness)
+- [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
+
