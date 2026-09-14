@@ -886,3 +886,11 @@
 - [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
 - [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
 
+## 2026-09-14 14:56 UTC
+
+- [New $100K H-1B Visa Fee Pushes Tech Jobs Offshore](https://spectrum.ieee.org/h-1b-visa-us-government)
+- [How to Write an Effective Software Design Document](https://refactoringenglish.com/excerpts/write-an-effective-design-doc/)
+- [Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama](https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/)
+- [Where has Construction Automation been successful?](https://www.construction-physics.com/p/where-has-construction-automation)
+- [EuroBirdPortal – Live bird movements across Europe](https://www.eurobirdportal.org/ebp/en/)
+
