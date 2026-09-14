@@ -894,3 +894,11 @@
 - [Where has Construction Automation been successful?](https://www.construction-physics.com/p/where-has-construction-automation)
 - [EuroBirdPortal – Live bird movements across Europe](https://www.eurobirdportal.org/ebp/en/)
 
+## 2026-09-14 17:22 UTC
+
+- [Distributed Systems Classics](https://nvartolomei.com/dist-sys-classics/)
+- [Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama](https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/)
+- [Principles for Fast Tokio Applications](https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/)
+- [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit)
+- [Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme](https://www.neobrutalism.dev/)
+
