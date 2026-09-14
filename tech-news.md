@@ -902,3 +902,11 @@
 - [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit)
 - [Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme](https://www.neobrutalism.dev/)
 
+## 2026-09-14 20:12 UTC
+
+- [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
+- [Distributed Systems Classics (2017)](https://nvartolomei.com/dist-sys-classics/)
+- [A Beginning for Mathematics](https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/)
+- [Principles for Fast Tokio Applications](https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/)
+- [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit)
+
