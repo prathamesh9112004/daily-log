@@ -878,3 +878,11 @@
 - [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
 - [CUDA for AMD on Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows)
 
+## 2026-09-14 08:07 UTC
+
+- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
+- [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/)
+- [Of Gods and Languages: On "When God Spoke Greek" (2013)](https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/)
+- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
+- [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
+
