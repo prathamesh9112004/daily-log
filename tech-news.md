@@ -910,3 +910,11 @@
 - [Principles for Fast Tokio Applications](https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/)
 - [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit)
 
+## 2026-09-15 08:02 UTC
+
+- [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
+- [Linux from Scratch](https://www.linuxfromscratch.org/)
+- [OpenArm: An open-source 7DOF humanoid arm](https://github.com/enactic/OpenArm)
+- [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/)
+- [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
+
