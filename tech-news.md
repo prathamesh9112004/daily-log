@@ -926,3 +926,11 @@
 - [Alternatives to MinIO for single-node local S3](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/)
 - [CSS-Tricks in Limbo](https://vale.rocks/micros/20260915-0135)
 
+## 2026-09-15 16:00 UTC
+
+- [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
+- [Swift 6.4 Released](https://www.swift.org/blog/swift-6.4-released/)
+- [Show HN: Hacking a $20 4G wireless hotspot into a texting device](https://bkovac.github.io/modem-thing/)
+- [Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian)
+- [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
+
