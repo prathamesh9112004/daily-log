@@ -958,3 +958,11 @@
 - [Salesforce Global Outage](https://status.salesforce.com/products/all)
 - [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 
+## 2026-09-16 15:54 UTC
+
+- [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/abs/2609.14858)
+- [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)
+- [The Google Play app review process now regularly takes longer than a week](https://gultsch.social/@daniel/117280438824908947)
+- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+- [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
+
