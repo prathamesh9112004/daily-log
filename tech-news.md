@@ -950,3 +950,11 @@
 - [Show HN: I made a flight simulator, except you're just a passenger](https://inflightsimulator.com)
 - [An update on Wayback Machine access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/)
 
+## 2026-09-16 13:23 UTC
+
+- [The Google Play app review process now regularly takes longer than a week](https://gultsch.social/@daniel/117280438824908947)
+- [EU chief opens door for Canada to become 'associate member'](https://www.bbc.com/news/articles/cjwyzrr9d3dko)
+- [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)
+- [Salesforce Global Outage](https://status.salesforce.com/products/all)
+- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+
