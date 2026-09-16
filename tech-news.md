@@ -942,3 +942,11 @@
 - [We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover)
 - [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/)
 
+## 2026-09-16 07:56 UTC
+
+- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+- [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
+- [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
+- [Show HN: I made a flight simulator, except you're just a passenger](https://inflightsimulator.com)
+- [An update on Wayback Machine access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/)
+
