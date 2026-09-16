@@ -966,3 +966,11 @@
 - [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 - [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
 
+## 2026-09-16 19:27 UTC
+
+- [Vectorized and performance-portable Quicksort](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
+- [Small programming tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
+- [Accurate Models of AMD Matrix Cores](https://arxiv.org/abs/2609.14845)
+- [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/abs/2609.14858)
+- [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)
+
