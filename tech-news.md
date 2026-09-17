@@ -990,3 +990,11 @@
 - [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
 - [My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it](https://jakeasmith.com/blog/http-build-url/)
 
+## 2026-09-17 15:59 UTC
+
+- [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)
+- [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/)
+- [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
+- [LLM Classification Is Feature Engineering](https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/)
+- [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
+
