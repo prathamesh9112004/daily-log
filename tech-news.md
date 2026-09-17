@@ -998,3 +998,11 @@
 - [LLM Classification Is Feature Engineering](https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/)
 - [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
 
+## 2026-09-17 19:37 UTC
+
+- [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister)
+- [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)
+- [Towards Self-Driving Codebases](https://blog.detail.dev/posts/towards-self-driving-codebases/)
+- [CrowdSec Source Code Leak](https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure)
+- [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/)
+
