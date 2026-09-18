@@ -1022,3 +1022,11 @@
 - [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
 - [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
 
+## 2026-09-18 15:34 UTC
+
+- [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804)
+- [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
+- [North Korean nuclear test sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes)
+- [C++26: Trivial infinite loops are no longer undefined behaviour](https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops)
+- [Bend 2 and the Vibe-Coding Trap](https://blog.liampwll.com/posts/bend_vibe_coding/)
+
