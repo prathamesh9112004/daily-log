@@ -1006,3 +1006,11 @@
 - [CrowdSec Source Code Leak](https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure)
 - [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/)
 
+## 2026-09-18 07:38 UTC
+
+- [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)
+- [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
+- [Astra for Law](https://openai.com/index/astra-for-law/)
+- [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
+- [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
+
