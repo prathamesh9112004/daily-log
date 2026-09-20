@@ -1086,3 +1086,11 @@
 - [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
 - [The Millennium Problems for Biology](https://millenniumproblems.bio/)
 
+## 2026-09-20 15:13 UTC
+
+- [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1)
+- [Key symbols we lost to time, pt. 2: The Mac side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/)
+- [Chat-based Large Language Models replicate the mechanisms of a psychic's con](https://softwarecrisis.dev/letters/llmentalist/)
+- [Apple iPhone 18 Pro Camera test](https://www.dxomark.com/apple-iphone-18-pro-camera-test/)
+- [A custom virtual machine for the Stars 4X game](https://nullprogram.com/blog/2026/09/17/)
+
