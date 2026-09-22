@@ -1134,3 +1134,11 @@
 - [Why does mathmain need an encrypted loader?](https://safedep.io/mathmain-encrypted-loader/)
 - [In Search of a Compositional Theory of Self-Stabilization](http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html)
 
+## 2026-09-22 07:58 UTC
+
+- [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
+- [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
+- [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
+- [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)
+- [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
+
