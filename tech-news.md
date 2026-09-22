@@ -1150,3 +1150,11 @@
 - [Video games inspire great UX (2019)](https://jenson.org/games/)
 - [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
 
+## 2026-09-22 16:03 UTC
+
+- [How Meta's Muse works, revealed by the 6.8 GB filesystem it sent me](https://mouse.dev/blog/muse-runtime-export/)
+- [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+- [Apple has added persistent 'ads' to iOS, and it's driving users crazy](https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy)
+- [Show HN: Drop – a rootless Linux sandbox with gVisor support](https://droprun.sh/)
+- [Jev – a curation of Jev demos on X, tools, skills, and integrations](https://github.com/Amal-David/awesome-jev)
+
