@@ -1158,3 +1158,11 @@
 - [Show HN: Drop – a rootless Linux sandbox with gVisor support](https://droprun.sh/)
 - [Jev – a curation of Jev demos on X, tools, skills, and integrations](https://github.com/Amal-David/awesome-jev)
 
+## 2026-09-22 19:38 UTC
+
+- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
+- [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
+- [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+- [Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)](https://artificialanalysis.ai/models/claude-opus-5-5)
+- [WordPress: Unauthenticated path traversal leading to conditional RCE](https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp)
+
