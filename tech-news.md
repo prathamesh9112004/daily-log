@@ -1142,3 +1142,11 @@
 - [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)
 - [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
 
+## 2026-09-22 13:19 UTC
+
+- [AI Has No Wisdom and Neither Will You](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
+- [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
+- [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
+- [Video games inspire great UX (2019)](https://jenson.org/games/)
+- [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
+
