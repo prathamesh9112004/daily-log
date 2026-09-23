@@ -1190,3 +1190,11 @@
 - [Stripe's Knowledge AI Platform](https://stripe.dev/blog/meet-stripes-knowledge-ai-platform)
 - [Claude Code reads AGENTS.md only when telemetry is on [fixed]](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/)
 
+## 2026-09-23 19:34 UTC
+
+- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
+- [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html)
+- [A brief history of Windows scroll bar shortcuts](https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/)
+- [Italian parliament votes for return to nuclear energy](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567)
+- [Cloud Agents Are Inevitable AI Prisons](https://normanponte.io/19df691f)
+
