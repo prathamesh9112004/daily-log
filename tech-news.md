@@ -1182,3 +1182,11 @@
 - [Z80 REPL](https://abagames.github.io/z80-repl/index.html)
 - [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
 
+## 2026-09-23 15:53 UTC
+
+- [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html)
+- [GPT-6 Astra has gained the ability to drive a car](https://drivingbench.com/)
+- [Strands Harness](https://strandsagents.com/blog/introducing-strands-harness/)
+- [Stripe's Knowledge AI Platform](https://stripe.dev/blog/meet-stripes-knowledge-ai-platform)
+- [Claude Code reads AGENTS.md only when telemetry is on [fixed]](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/)
+
