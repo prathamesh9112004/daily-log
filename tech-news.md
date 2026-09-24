@@ -1198,3 +1198,11 @@
 - [Italian parliament votes for return to nuclear energy](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567)
 - [Cloud Agents Are Inevitable AI Prisons](https://normanponte.io/19df691f)
 
+## 2026-09-24 07:50 UTC
+
+- [Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity)
+- [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
+- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
+- [Contrastive Language Models](https://contrastive-lm.notion.site/)
+- [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
+
