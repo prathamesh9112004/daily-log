@@ -1222,3 +1222,11 @@
 - [Enjoy Every Sandwich](https://bradmontague.substack.com/p/enjoy-every-sandwich)
 - [Nokia Design Archive (2025)](https://nokiadesignarchive.aalto.fi/index.html)
 
+## 2026-09-24 19:53 UTC
+
+- [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
+- [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
+- [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
+- [Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY)
+- [Fearless SIMD v1.0](https://linebender.org/blog/fearless-simd-1-0/)
+
