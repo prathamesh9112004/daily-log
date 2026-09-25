@@ -1238,3 +1238,11 @@
 - [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
 - [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)
 
+## 2026-09-25 13:34 UTC
+
+- [Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/)
+- [Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment)
+- [I'm Tired of Being on the Network](https://matduggan.com/im-tired-of-being-on-the-network/)
+- [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug)
+- [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
+
