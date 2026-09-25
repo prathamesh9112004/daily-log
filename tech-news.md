@@ -1246,3 +1246,11 @@
 - [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug)
 - [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
 
+## 2026-09-25 16:16 UTC
+
+- [Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment)
+- [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug)
+- [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/)
+- [Jevmem – automatic project memory for Claude Code, built on Jev](https://github.com/Avinash-jetwani/jevmem)
+- [Classified Estimates Show the NSA Is Paying Billions to Test AI Models](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models)
+
