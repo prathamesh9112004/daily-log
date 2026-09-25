@@ -1254,3 +1254,11 @@
 - [Jevmem – automatic project memory for Claude Code, built on Jev](https://github.com/Avinash-jetwani/jevmem)
 - [Classified Estimates Show the NSA Is Paying Billions to Test AI Models](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models)
 
+## 2026-09-25 19:55 UTC
+
+- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+- [Alan Kay: Shannon gave us a way of dealing with noisy channels [video]](https://www.youtube.com/watch?v=Cjntrqhn8pk)
+- [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment)
+- [Advice to a Beginning Graduate Student (2001)](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
+- [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/)
+
