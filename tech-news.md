@@ -1286,3 +1286,11 @@
 - [Modern Object Pascal Introduction for Programmers – Castle Game Engine](https://castle-engine.io/modern_pascal)
 - [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
 
+## 2026-09-26 19:07 UTC
+
+- [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)
+- [Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent)
+- [Show HN: A Claude Code skill to analyze your chess games](https://github.com/brumar/chess-postmortem-skills)
+- [The Lost Atomic Update on Loongson CPU](https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/)
+- [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
+
