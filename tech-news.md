@@ -1278,3 +1278,11 @@
 - [Floci: Locally emulating any cloud service](https://floci.io)
 - [One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
 
+## 2026-09-26 15:30 UTC
+
+- [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
+- [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+- [Modern Object Pascal Introduction for Programmers – Castle Game Engine](https://castle-engine.io/modern_pascal)
+- [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
+
