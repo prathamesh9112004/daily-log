@@ -1262,3 +1262,11 @@
 - [Advice to a Beginning Graduate Student (2001)](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
 - [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/)
 
+## 2026-09-26 08:00 UTC
+
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+- [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
+- [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
+- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+- [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/)
+
