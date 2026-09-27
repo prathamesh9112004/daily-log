@@ -1318,3 +1318,11 @@
 - [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)
 - [Writing Efficient C++ Code](https://asawicki.info/articles/writing_efficient_cpp_code.php)
 
+## 2026-09-27 19:39 UTC
+
+- [Ember-1](https://fireworks.ai/blog/ember-1)
+- [In an $80 motel room, a discovery to shed light on the origins of life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)
+- [Writing Efficient C++ Code (2013)](https://asawicki.info/articles/writing_efficient_cpp_code.php)
+- [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)
+- [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/)
+
