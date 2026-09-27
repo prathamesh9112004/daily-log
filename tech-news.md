@@ -1310,3 +1310,11 @@
 - [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
 - [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
 
+## 2026-09-27 16:09 UTC
+
+- ["They had no concept of a duty of care to their users."](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)
+- [In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)
+- [The Normalization of Inexplicable Failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)
+- [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)
+- [Writing Efficient C++ Code](https://asawicki.info/articles/writing_efficient_cpp_code.php)
+
