@@ -1302,3 +1302,11 @@
 - [Flip Fluid on Flip Dots](https://mitxela.com/projects/flipflip)
 - [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)
 
+## 2026-09-27 13:47 UTC
+
+- [Flip Fluid on Flip Dots](https://mitxela.com/projects/flipflip)
+- ["As a Language Model": Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021)
+- [OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
+- [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
+- [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
+
