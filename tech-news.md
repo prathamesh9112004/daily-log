@@ -1342,3 +1342,11 @@
 - [What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators](https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/)
 - [Hijacking the PS5's RTMP Stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)
 
+## 2026-09-28 19:03 UTC
+
+- [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+- [Hijacking the PS5's RTMP stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)
+- [Who wrote Elizabeth I's most scathing letters?](https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/)
+- [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/)
+- [Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley)
+
