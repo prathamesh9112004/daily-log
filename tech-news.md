@@ -1334,3 +1334,11 @@
 - [Ember-1](https://fireworks.ai/blog/ember-1)
 - [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
 
+## 2026-09-28 16:41 UTC
+
+- [The problem is not the AI code, but nobody knows anything anymore](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/)
+- [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+- [Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley)
+- [What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators](https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/)
+- [Hijacking the PS5's RTMP Stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)
+
