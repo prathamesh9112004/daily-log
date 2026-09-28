@@ -1350,3 +1350,11 @@
 - [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/)
 - [Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley)
 
+## 2026-09-28 21:42 UTC
+
+- [World Labs Is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement)
+- [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
+- [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+- [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/)
+- [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/)
+
