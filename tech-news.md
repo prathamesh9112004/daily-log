@@ -1374,3 +1374,11 @@
 - [Without the Hot Air](https://www.withouthotair.com/)
 - [Jeeves. Reasoning improves Jev-like decision models](https://github.com/PostHog/jeeves)
 
+## 2026-09-29 17:25 UTC
+
+- [GPT 6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol/)
+- [Dots](https://openai.com/index/introducing-dots/)
+- [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss)
+- [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising)
+- [A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)
+
