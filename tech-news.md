@@ -1358,3 +1358,11 @@
 - [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/)
 - [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/)
 
+## 2026-09-29 09:07 UTC
+
+- [Using any C++ library in Godot](https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html)
+- [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
+- [The systems that no one will test](https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/)
+- [Booted up in 1993, this server still runs – but not for much longer (2017)](https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html)
+- [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+
