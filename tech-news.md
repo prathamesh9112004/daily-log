@@ -1366,3 +1366,11 @@
 - [Booted up in 1993, this server still runs – but not for much longer (2017)](https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html)
 - [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
 
+## 2026-09-29 14:46 UTC
+
+- [How Delhi Cut Electricity Loss from 50 to 5 Percent](https://spectrum.ieee.org/delhi-electricity-loss)
+- [Claude partial outage](https://status.claude.com/incidents/4xvtc2gnq73l)
+- [AI companies leak data to advertisers [pdf]](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)
+- [Without the Hot Air](https://www.withouthotair.com/)
+- [Jeeves. Reasoning improves Jev-like decision models](https://github.com/PostHog/jeeves)
+
