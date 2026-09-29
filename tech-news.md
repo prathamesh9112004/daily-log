@@ -1382,3 +1382,11 @@
 - [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising)
 - [A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)
 
+## 2026-09-29 20:34 UTC
+
+- [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/)
+- [Tcl/Tk 9.1 Released](https://www.tcl-lang.org/software/tcltk/9.1.html)
+- [USPS shuts down site that sold 5M counterfeit postage labels for $2 each](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
+- [Nicholas Polson has authored 258 academic papers in 2026 (so far)](https://statmodeling.stat.columbia.edu/2026/08/27/258/)
+- [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss)
+
