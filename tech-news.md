@@ -1406,3 +1406,11 @@
 - [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
 - [Mathematical Origami](https://mathigon.org/origami)
 
+## 2026-09-30 17:23 UTC
+
+- [Let's Ditch Google (Verb)](https://adam.farkas.pro/lets-ditch-google-verb/)
+- [A Brief History of the Bloomberg Terminal](https://spectrum.ieee.org/bloomberg-terminal)
+- [You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
+- [SDF vs. MSDF vs. Slug: GPU Text Rendering](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/)
+- [I Could've Accessed 17T Microsoft Records](https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records)
+
