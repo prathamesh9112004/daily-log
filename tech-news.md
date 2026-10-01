@@ -1430,3 +1430,11 @@
 - [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
 - [Book of Shapes – Collection of minimal, generative and customizable SVG-patterns](https://bookofshapes.com/)
 
+## 2026-10-01 15:20 UTC
+
+- [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421)
+- [How to speed up the Rust compiler in September 2026](https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html)
+- [Google breaks promise to provide 10 years of updates to Chromebooks](https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/)
+- [GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design](https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design)
+- [Polyedergarten: Garden of Paper Polyhedron Models](https://www.polyedergarten.de/e_index.htm)
+
