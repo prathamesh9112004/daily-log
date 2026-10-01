@@ -1446,3 +1446,11 @@
 - [RacketCon Is Saturday](https://con.racket-lang.org/)
 - [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569)
 
+## 2026-10-01 20:53 UTC
+
+- [Pi 1.0](https://earendil.com/posts/pi-1-0/)
+- [Clef: Open-source decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
+- [Oxygen-deprived underwater zones may not be "dead zones" but clue to early life](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570)
+- [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)
+- [Car Is a Smartphone on Wheels. Here's Who's Listening](https://automatictransmission.khoury.northeastern.edu/index.html)
+
