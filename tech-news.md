@@ -1422,3 +1422,11 @@
 - [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)
 - [5x faster Edge Functions: V8 isolates to Firecracker MicroVMs](https://www.netlify.com/blog/edge-functions-firecracker-microvms/)
 
+## 2026-10-01 09:27 UTC
+
+- [OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network](https://github.com/maanHimself/OpenDLSS-NR)
+- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
+- [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1)
+- [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
+- [Book of Shapes – Collection of minimal, generative and customizable SVG-patterns](https://bookofshapes.com/)
+
