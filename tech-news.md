@@ -1478,3 +1478,11 @@
 - [Tiny Brutalism](https://placeholders.itch.io/tiny-brutalism)
 - [Dutch Computer Museums](https://aresluna.org/dutch-computer-museums/)
 
+## 2026-10-02 20:31 UTC
+
+- [Apple Pass Designer](https://developer.apple.com/pass-designer/)
+- [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
+- [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
+- [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
+- [With most information hidden, the game Stratego had stumped AI until now](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/)
+
