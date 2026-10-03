@@ -1502,3 +1502,11 @@
 - [The Escalation of War in Ethiopia](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia)
 - [Apple Pass Designer](https://developer.apple.com/pass-designer/)
 
+## 2026-10-03 15:31 UTC
+
+- [Show HN: Germany's new sovereign AI model Kolibri](https://tej.as/blog/aleph-alpha-kolibri)
+- [Woking Electrical Control Room (2016)](http://www.darbiansphotography.com/woking-electrical-control-room-urbex)
+- [Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
+- [C++ Insights – See your source code with the eyes of a Compiler](https://github.com/andreasfertig/cppinsights)
+- [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
+
