@@ -1510,3 +1510,11 @@
 - [C++ Insights – See your source code with the eyes of a Compiler](https://github.com/andreasfertig/cppinsights)
 - [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
 
+## 2026-10-03 19:06 UTC
+
+- [ADHD, autism or complex trauma? [pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf)
+- [Kolibri – Tech Report [pdf]](https://aleph-alpha.com/downloads/tech-report.pdf)
+- [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
+- [FTL: A new operating system for clouds](https://ftl-os.org/)
+- [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
+
