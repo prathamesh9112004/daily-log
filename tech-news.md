@@ -1542,3 +1542,11 @@
 - [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
 - [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)
 
+## 2026-10-04 19:20 UTC
+
+- [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
+- [A map of every lighthouse](https://mapped.earth/lighthouses/world)
+- ['Neanderthals Among Us' review](https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review)
+- [Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash](https://niklasroy.com/gtc/)
+- [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
+
