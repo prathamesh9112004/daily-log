@@ -1574,3 +1574,11 @@
 - [OpenAI "rogue" agent activities found on Wikimedia projects](https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/)
 - [The future of independence is interdependence](https://onlys.ky/independence-is-interdependence/)
 
+## 2026-10-05 22:24 UTC
+
+- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)
+- [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)
+- [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
+- [Find the flattest route between any two points in SF](https://flattensf.com/)
+- [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/)
+
