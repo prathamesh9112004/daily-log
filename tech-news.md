@@ -1558,3 +1558,11 @@
 - [In the wake of Tippett Studios’ closure, a digital archive appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
 - [A browser-native classic Visual Basic VB6 IDE](https://wieslawsoltes.github.io/VB6/)
 
+## 2026-10-05 17:03 UTC
+
+- [Borland Turbo Basic](https://dosdays.co.uk/topics/Software/borland_turbo_basic.php)
+- [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/)
+- [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
+- [Denmark Data Breach Exposes 8.8M People's Personal Data](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger)
+- [Mold Linker Version 3.0.0 Release – Rewritten in Rust](https://github.com/rui314/mold/releases/tag/v3.0.0)
+
