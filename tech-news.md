@@ -1566,3 +1566,11 @@
 - [Denmark Data Breach Exposes 8.8M People's Personal Data](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger)
 - [Mold Linker Version 3.0.0 Release – Rewritten in Rust](https://github.com/rui314/mold/releases/tag/v3.0.0)
 
+## 2026-10-05 20:02 UTC
+
+- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)
+- [Why Plain Text Is Still One of the Best Technologies We Have](https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/)
+- [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/)
+- [OpenAI "rogue" agent activities found on Wikimedia projects](https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/)
+- [The future of independence is interdependence](https://onlys.ky/independence-is-interdependence/)
+
