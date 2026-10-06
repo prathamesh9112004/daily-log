@@ -1582,3 +1582,11 @@
 - [Find the flattest route between any two points in SF](https://flattensf.com/)
 - [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/)
 
+## 2026-10-06 09:27 UTC
+
+- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)
+- [Accountability mechanisms can be joyful (2024)](https://liquidbrain.net/blog/accountability-and-joy/)
+- [Protect Your Friends and Loved Ones](https://ephemeral.cx/2026/07/protect-your-friends-and-loved-ones/)
+- [Find the flattest route between any two points in SF](https://flattensf.com/)
+- [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)
+
