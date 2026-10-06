@@ -1606,3 +1606,11 @@
 - [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/)
 - [The Early History of Smalltalk (1993)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 
+## 2026-10-06 20:51 UTC
+
+- [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)
+- [Nobel Prize in Physics 2026: Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/)
+- [A sustainable web career, for when all this blows over](https://dbushell.com/2026/10/07/sustainable-web-career/)
+- [Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage](https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/)
+- [Paramount completes $111B Warner merger, creating "Skydance" behemoth](https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/)
+
