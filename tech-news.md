@@ -1598,3 +1598,11 @@
 - [Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/)
 - [Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol](https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/)
 
+## 2026-10-06 17:42 UTC
+
+- [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)
+- [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU)
+- [Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/)
+- [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/)
+- [The Early History of Smalltalk (1993)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
+
