@@ -1622,3 +1622,11 @@
 - [The art of defusing a second world war bomb](https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb)
 - [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](https://github.com/shader-effects-inc/shaders)
 
+## 2026-10-07 15:27 UTC
+
+- [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
+- [GitHub Incident with Git Operations, Pull Requests and Actions](https://www.githubstatus.com/incidents/djlmxz2zd0j7)
+- [Google Playground](https://labs.google/playground)
+- [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
+- [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](https://www.nobelprize.org/prizes/chemistry/2026/press-release/)
+
