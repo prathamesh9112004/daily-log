@@ -1638,3 +1638,11 @@
 - [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/)
 - [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
 
+## 2026-10-07 21:06 UTC
+
+- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
+- [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/)
+- [The Mathocalypse](https://scottaaronson.blog/?p=10169)
+- [Docker Agent](https://github.com/docker/docker-agent)
+- [Push ifs up and fors down: The idiom, its algebra, and its limits](https://debasishg.github.io/blog/push-ifs-up-fors-down/)
+
