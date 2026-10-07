@@ -1630,3 +1630,11 @@
 - [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
 - [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](https://www.nobelprize.org/prizes/chemistry/2026/press-release/)
 
+## 2026-10-07 18:14 UTC
+
+- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
+- [Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees](https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees)
+- [Animated ASCII Art for Web Pages](https://ascii.rest/)
+- [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/)
+- [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
+
