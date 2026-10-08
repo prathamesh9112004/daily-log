@@ -1670,3 +1670,11 @@
 - [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
 - [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
 
+## 2026-10-08 21:10 UTC
+
+- [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
+- [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
+- [Theranos.world](https://www.theranos.world/)
+- [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
+- [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501)
+
