@@ -1646,3 +1646,11 @@
 - [Docker Agent](https://github.com/docker/docker-agent)
 - [Push ifs up and fors down: The idiom, its algebra, and its limits](https://debasishg.github.io/blog/push-ifs-up-fors-down/)
 
+## 2026-10-08 09:33 UTC
+
+- [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
+- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
+- [Classic PC demoscene productions running natively in the browser](https://treylorswift.github.io/demoscene-recomp/web/)
+- [Living off-grid: Hundred Rabbits](https://100r.ca/site/home.html)
+- [The 15-year search for a band that charted once and vanished](https://shahidhussain.com/writing/search-for-salvage/)
+
