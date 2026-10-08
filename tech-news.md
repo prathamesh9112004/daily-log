@@ -1654,3 +1654,11 @@
 - [Living off-grid: Hundred Rabbits](https://100r.ca/site/home.html)
 - [The 15-year search for a band that charted once and vanished](https://shahidhussain.com/writing/search-for-salvage/)
 
+## 2026-10-08 15:28 UTC
+
+- [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
+- [Show HN: I've been paying for a rural Tanzanian's education for 10 years](https://tanzaniaeducationproject.org/)
+- [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
+- [The Slow Formation of Durable Software](https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/)
+- [Telnet BBS Guide](https://www.telnetbbsguide.com/)
+
