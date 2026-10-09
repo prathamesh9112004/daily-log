@@ -1686,3 +1686,11 @@
 - [MXC - a sandboxed code execution system](https://github.com/microsoft/mxc)
 - [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/)
 
+## 2026-10-09 15:11 UTC
+
+- [Deno Is Joining Cloudflare](https://deno.com/blog/cloudflare)
+- [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
+- [Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
+- [I'm in a Meeting](https://iminafleeting.com/)
+- [Nobel Peace Prize for 2026 to Navanethem "NAVI" Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
+
