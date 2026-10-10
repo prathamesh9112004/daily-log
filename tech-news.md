@@ -1734,3 +1734,11 @@
 - [Rampart: Browser native on-device PII radaction](https://ndstudio.gov/posts/say-hello-to-rampart)
 - [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)
 
+## 2026-10-10 19:53 UTC
+
+- [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
+- [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)
+- [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)
+- [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
+- [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
+
