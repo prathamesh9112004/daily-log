@@ -1710,3 +1710,11 @@
 - [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
 - [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
 
+## 2026-10-10 09:06 UTC
+
+- [REA Reverse – Engineer Anything](https://rea.tools/)
+- [Computers Cannot Make Decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)
+- [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
+- [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
+- [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
+
