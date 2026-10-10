@@ -1718,3 +1718,11 @@
 - [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
 - [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
 
+## 2026-10-10 14:24 UTC
+
+- [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
+- [Lobbying Is Corruption](https://carette.xyz/posts/lobbying_and_corruption/)
+- [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
+- [REA Reverse – Engineer Anything](https://rea.tools/)
+- [C for Rust Programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
+
