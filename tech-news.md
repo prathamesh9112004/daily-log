@@ -1758,3 +1758,11 @@
 - [The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
 - [LineageOS 24.0](https://lineageos.org/Changelog-32/)
 
+## 2026-10-11 17:09 UTC
+
+- [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
+- [The Corporate Happiness Treadmill and the Case for Doing Less](https://0xff.nu/corp-burnout/)
+- [The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
+- [Bot traffic from Yandex](https://radar.cloudflare.com/bots/as13238?dateRange=7d)
+- [LineageOS 24.0](https://lineageos.org/Changelog-32/)
+
