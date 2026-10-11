@@ -1766,3 +1766,11 @@
 - [Bot traffic from Yandex](https://radar.cloudflare.com/bots/as13238?dateRange=7d)
 - [LineageOS 24.0](https://lineageos.org/Changelog-32/)
 
+## 2026-10-11 20:03 UTC
+
+- [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
+- [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
+- [NYC's "Click to Cancel" rule is now in effect](https://www.nyc.gov/main/click-to-cancel)
+- [Chapter 1 of Ways of Seeing by John Berger](https://www.ways-of-seeing.com/ch1)
+- [LineageOS 24.0](https://lineageos.org/Changelog-32/)
+
