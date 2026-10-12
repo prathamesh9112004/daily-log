@@ -1774,3 +1774,11 @@
 - [Chapter 1 of Ways of Seeing by John Berger](https://www.ways-of-seeing.com/ch1)
 - [LineageOS 24.0](https://lineageos.org/Changelog-32/)
 
+## 2026-10-12 09:49 UTC
+
+- [Postgres isn't slow, your storage is](https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is)
+- [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
+- [Fable Took My Job](https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html)
+- [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
+- [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
+
