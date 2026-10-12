@@ -1798,3 +1798,11 @@
 - [Muse DAU dropped and Meta insiders decided to sell](https://theinference.org/article/meta-s-muse-daily-user-growth-fell-62-in-three-weeks-and-insiders-made-172-trades-without-a-buy)
 - [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096)
 
+## 2026-10-12 22:48 UTC
+
+- [AI Is a Tool. Using It Well Takes Skill.](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+- [GLM-Legal](https://z.ai/blog/glm-legal)
+- [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
+- [Phreak.ing – Internet Phone Switch](https://phreak.ing/)
+- [Who Is Vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
+
