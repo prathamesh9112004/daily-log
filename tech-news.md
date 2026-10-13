@@ -1806,3 +1806,11 @@
 - [Phreak.ing – Internet Phone Switch](https://phreak.ing/)
 - [Who Is Vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
 
+## 2026-10-13 09:46 UTC
+
+- [Were Software Engineers blue-collar workers all along?](https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along)
+- [DishwasherBench – Can Frontier Models Stack a Dishwasher?](https://github.com/composo-ai/DishwasherBench)
+- [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
+- [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
+- [GLM-Legal](https://z.ai/blog/glm-legal)
+
