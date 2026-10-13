@@ -1814,3 +1814,11 @@
 - [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
 - [GLM-Legal](https://z.ai/blog/glm-legal)
 
+## 2026-10-13 15:49 UTC
+
+- [Apple HomeView](https://www.apple.com/apple-homeview/)
+- [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
+- [We turned EmbeddingGemma 2 into a speech-to-text model](https://eg2.haku.sh/)
+- [A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](https://machinelearning.apple.com/research/distributed-gpu-cloud)
+- [New Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
+
