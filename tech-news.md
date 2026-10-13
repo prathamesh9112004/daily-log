@@ -1830,3 +1830,11 @@
 - [Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/)
 - [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/)
 
+## 2026-10-13 21:04 UTC
+
+- [Gemini 4 Argon](https://deepmind.google/models/gemini/)
+- [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
+- [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
+- [Apple HomeView](https://www.apple.com/apple-homeview/)
+- [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
+
