@@ -1854,3 +1854,11 @@
 - [RIP Eric Binnion](https://ma.tt/2026/10/rip-eric/)
 - [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
 
+## 2026-10-14 16:17 UTC
+
+- [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
+- [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
+- [Running Windows desktop tests from Linux with disposable VMs](https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation)
+- [ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)
+- [AI is mass decompiling games. That's both awesome and scary](https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/)
+
