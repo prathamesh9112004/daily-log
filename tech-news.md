@@ -1838,3 +1838,11 @@
 - [Apple HomeView](https://www.apple.com/apple-homeview/)
 - [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
 
+## 2026-10-14 08:03 UTC
+
+- [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
+- [Gemini 4 Argon](https://deepmind.google/models/gemini/)
+- [Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/)
+- [Felix Rieseberg Homepage](https://felixrieseberg.com/)
+- [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
+
