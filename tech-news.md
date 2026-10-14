@@ -1862,3 +1862,11 @@
 - [ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)
 - [AI is mass decompiling games. That's both awesome and scary](https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/)
 
+## 2026-10-14 20:03 UTC
+
+- [AI agents aren't 'going rogue.' Frontier labs are skipping security basics](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
+- [Better HTTP/1 connection reuse in Go 1.27](https://go.dev/blog/http-connection-reuse)
+- [Fire at Starlink site in Bulgaria after suspected sabotage in Poland](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/)
+- [Neckbeard – a DevOps/platform/SRE plugin for your agent](https://github.com/bealesh/neckbeard)
+- [Iosevka is an open-source, sans-serif and slab-serif monospace font](https://typeof.net/Iosevka/)
+
