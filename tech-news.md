@@ -1846,3 +1846,11 @@
 - [Felix Rieseberg Homepage](https://felixrieseberg.com/)
 - [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 
+## 2026-10-14 13:34 UTC
+
+- [Switzerland proposes banning profiling-based ads to minors](https://www.admin.ch/en/newnsb/NMn5s24l8NjQ)
+- [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
+- [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
+- [RIP Eric Binnion](https://ma.tt/2026/10/rip-eric/)
+- [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
+
