@@ -1878,3 +1878,11 @@
 - [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
 - [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)
 
+## 2026-10-15 13:17 UTC
+
+- [Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
+- [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
+- [Show HN: Unfenced – Land for sale that borders public land](https://unfenced.land/)
+- [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
+- [Israeli firm's digital ads enabling installation of 'zero-click' spyware](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)
+
