@@ -1870,3 +1870,11 @@
 - [Neckbeard – a DevOps/platform/SRE plugin for your agent](https://github.com/bealesh/neckbeard)
 - [Iosevka is an open-source, sans-serif and slab-serif monospace font](https://typeof.net/Iosevka/)
 
+## 2026-10-15 07:45 UTC
+
+- [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
+- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
+- [Tiny Little Office](https://tinylittleoffice.com/)
+- [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+- [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)
+
