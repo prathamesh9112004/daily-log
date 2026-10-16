@@ -1918,3 +1918,11 @@
 - [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
 - [The Economic Complexity of the Western Roman Empire](https://www.michelecoscia.com/?p=2613)
 
+## 2026-10-16 15:52 UTC
+
+- [I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
+- [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
+- [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)
+- [What on Earth Is Dekton?](https://www.worksinprogress.news/p/porcelain)
+- [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)
+
