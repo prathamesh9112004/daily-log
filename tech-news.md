@@ -1902,3 +1902,11 @@
 - [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
 - [E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
 
+## 2026-10-16 07:33 UTC
+
+- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
+- [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
+- ['500-hour' Order of the Sinking Star is as complex and exhausting as it sounds](https://www.polygon.com/order-of-the-sinking-star-impressions/)
+- [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
+- [Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]](https://www.youtube.com/watch?v=sjNpfz4UzqU)
+
