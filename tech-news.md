@@ -1934,3 +1934,11 @@
 - [Claude writes about 90% of Claude Code's code](https://claude.dev/blog/solving-code-review-at-anthropic/)
 - [JPEG XL vs. AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 
+## 2026-10-17 07:13 UTC
+
+- [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)
+- [Tesla Roadster](https://www.tesla.com/roadster)
+- [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
+- [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
+
