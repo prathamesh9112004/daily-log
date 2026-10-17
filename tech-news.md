@@ -1942,3 +1942,11 @@
 - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
 - [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
 
+## 2026-10-17 12:05 UTC
+
+- [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
+- [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)
+- [Tesla Roadster](https://www.tesla.com/roadster)
+- [We Still Use Paper](https://humanpro.co/articles/we-still-use-paper/)
+- [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
+
