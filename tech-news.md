@@ -1966,3 +1966,11 @@
 - [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator)
 - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 
+## 2026-10-18 07:26 UTC
+
+- [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
+- [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)
+- [How the Elizabeth Holmes documentary “You Can See Everything” is deceiving](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
+- [Matthew Prince on why Cloudflare offers a free version and always will (2016)](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)
+- [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
+
