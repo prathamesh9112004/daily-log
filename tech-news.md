@@ -2022,3 +2022,11 @@
 - [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0)
 - [Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/)
 
+## 2026-10-19 20:55 UTC
+
+- [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
+- [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)
+- [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
+- [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
+- [Android apps running native on macOS](https://github.com/kksimp/Mac.apk)
+
