@@ -1998,3 +1998,11 @@
 - [Java sealed classes and exhaustive pattern matching](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/)
 - [Sigsaly: Churchill's top secret hotline to the President](https://www.iwm.org.uk/history/iwm/cwr/telephone)
 
+## 2026-10-19 08:06 UTC
+
+- [Linux 7.3 Released](https://lwn.net/Articles/1101143/)
+- [Rabbits were a medieval royal luxury in England until the Black Death](https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html)
+- [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
+- [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
+- [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
+
