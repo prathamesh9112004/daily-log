@@ -2006,3 +2006,11 @@
 - [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
 - [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
 
+## 2026-10-19 15:28 UTC
+
+- [Wine Ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
+- [Linux 7.3 Released](https://lwn.net/Articles/1101143/)
+- [Timestral: Mistral release time-series foundation models](https://mistral.ai/news/timestral/)
+- [Alternatives to Animal Testing Are Finally Taking Off](https://spectrum.ieee.org/alternatives-to-animal-testing)
+- [Let's Encrypt is adding two additional remote perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)
+
