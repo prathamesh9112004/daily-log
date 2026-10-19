@@ -2014,3 +2014,11 @@
 - [Alternatives to Animal Testing Are Finally Taking Off](https://spectrum.ieee.org/alternatives-to-animal-testing)
 - [Let's Encrypt is adding two additional remote perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)
 
+## 2026-10-19 18:06 UTC
+
+- [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
+- [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
+- [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
+- [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0)
+- [Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/)
+
