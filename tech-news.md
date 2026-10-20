@@ -2046,3 +2046,11 @@
 - [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
 - [OpenBSD 8.0](https://www.openbsd.org/80.html)
 
+## 2026-10-20 16:08 UTC
+
+- [Facebook now charging to post more than 2 links a month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)
+- [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
+- [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)
+- [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
+- [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
+
