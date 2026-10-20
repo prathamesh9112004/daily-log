@@ -2030,3 +2030,11 @@
 - [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
 - [Android apps running native on macOS](https://github.com/kksimp/Mac.apk)
 
+## 2026-10-20 07:56 UTC
+
+- [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
+- [OpenBSD 8.0](https://www.openbsd.org/80.html)
+- [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
+- [Restoration of Retinal Regenerative Potential](https://www.nature.com/articles/s41467-025-58290-8)
+- [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
+
