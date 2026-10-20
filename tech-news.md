@@ -2038,3 +2038,11 @@
 - [Restoration of Retinal Regenerative Potential](https://www.nature.com/articles/s41467-025-58290-8)
 - [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
 
+## 2026-10-20 13:29 UTC
+
+- [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
+- [Demographic "Doomsday" Misses the Mark](https://www.science.org/doi/10.1126/science.ael8752)
+- [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
+- [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
+- [OpenBSD 8.0](https://www.openbsd.org/80.html)
+
