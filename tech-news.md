@@ -2078,3 +2078,11 @@
 - [LayerFS: The filesystem for AI coding agents](https://layerfs.ai/)
 - [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
 
+## 2026-10-21 16:24 UTC
+
+- [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)
+- [Today's PHP Security Release, and How We're Strengthening PHP Security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
+- [DuckDB 2.0.0 LTS "Cinnamon Teal"](https://duckdb.org/2026/10/21/announcing-duckdb-200)
+- [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
+- [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)
+
