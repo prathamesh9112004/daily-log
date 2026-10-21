@@ -2070,3 +2070,11 @@
 - [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509)
 - [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
 
+## 2026-10-21 13:39 UTC
+
+- [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
+- [Qwen3-Coder writes less secure code when told it's for a US persona](https://www.hirundo.io/blog/qwen3-coder-vulnerabilities)
+- [Most advice is right for the person giving it](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/)
+- [LayerFS: The filesystem for AI coding agents](https://layerfs.ai/)
+- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
+
