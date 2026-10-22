@@ -2102,3 +2102,11 @@
 - [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
 - [GitLab critical patch release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
 
+## 2026-10-22 13:41 UTC
+
+- [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943)
+- [Jailbreaking the Switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
+- [What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation)
+- [Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
+- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
+
