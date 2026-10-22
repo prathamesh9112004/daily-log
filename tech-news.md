@@ -2094,3 +2094,11 @@
 - [Why Windows 11 still ships with Windows 95's memory manager hidden inside it](https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/)
 - [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
 
+## 2026-10-22 07:59 UTC
+
+- [OpenAI CLI](https://github.com/openai/openai-cli)
+- [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
+- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
+- [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
+- [GitLab critical patch release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
+
