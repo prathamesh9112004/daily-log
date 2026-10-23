@@ -2126,3 +2126,11 @@
 - [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)
 - [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)
 
+## 2026-10-23 07:58 UTC
+
+- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
+- [The same AI request emits 8.5 times more CO2 in Texas than in Sweden](https://berget.ai/en/blog/per-request-co2-press-release)
+- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
+- [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
+- [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images)
+
