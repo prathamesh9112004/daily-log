@@ -2142,3 +2142,11 @@
 - [Job Loss and Cortisone Mania](https://tilschuenemann.de/job-loss-cortisone-mania)
 - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 
+## 2026-10-23 16:13 UTC
+
+- [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
+- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
+- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
+- [eMudhra ignored Mozilla Root investigation deadline; blames social media](https://bugzilla.mozilla.org/show_bug.cgi?id=2083449)
+- [Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier](https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/)
+
