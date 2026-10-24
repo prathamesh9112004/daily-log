@@ -2158,3 +2158,11 @@
 - [Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line](https://artificialanalysis.ai/models/kimi-k3-1-pro)
 - [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
 
+## 2026-10-24 07:37 UTC
+
+- [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
+- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
+- [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
+- [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
+- [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
+
