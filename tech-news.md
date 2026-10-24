@@ -2174,3 +2174,11 @@
 - [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
 - [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)
 
+## 2026-10-24 15:10 UTC
+
+- [TornadoVM 7 Enables GPU-Native Workloads from Java Applications](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/)
+- [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/)
+- [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
+- [I Don't Understand Quantum Physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
+- [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)
+
