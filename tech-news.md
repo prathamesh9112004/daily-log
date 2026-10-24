@@ -2166,3 +2166,11 @@
 - [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
 - [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
 
+## 2026-10-24 12:35 UTC
+
+- [I Don't Understand Quantum Physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
+- [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
+- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
+- [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
+- [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)
+
