@@ -2190,3 +2190,11 @@
 - [Neural chip decodes interactions between brain regions](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/)
 - [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)
 
+## 2026-10-25 07:50 UTC
+
+- [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
+- [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
+- [The Goose Programming Language](https://aardappel.github.io/goose/)
+- [How Japanese Dried Bonito Is Made](https://kottke.org/26/10/how-japanese-dried-bonito-is-made)
+- [SpeedCrunch 1.1](https://www.speedcrunch.org/)
+
