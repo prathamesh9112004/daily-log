@@ -2214,3 +2214,11 @@
 - [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
 - [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
 
+## 2026-10-25 18:48 UTC
+
+- [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
+- [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
+- [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
+- [Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)
+- [Amazon's "digital pacifier" for toddlers](https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers)
+
