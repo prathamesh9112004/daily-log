@@ -2206,3 +2206,11 @@
 - [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
 - [Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)
 
+## 2026-10-25 15:21 UTC
+
+- [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/)
+- [Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/)
+- [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol)
+- [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
+- [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
+
