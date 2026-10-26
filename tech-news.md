@@ -2230,3 +2230,11 @@
 - [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)
 - [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
 
+## 2026-10-26 15:04 UTC
+
+- [Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)
+- [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline)
+- [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
+- [One of the Greatest Inventions in the History of Human Transport](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html)
+- [Colorfigures](https://april-zhu.com/colorfigures)
+
