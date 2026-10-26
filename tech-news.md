@@ -2222,3 +2222,11 @@
 - [Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)
 - [Amazon's "digital pacifier" for toddlers](https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers)
 
+## 2026-10-26 08:09 UTC
+
+- [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
+- [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
+- [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
+- [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)
+- [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
+
