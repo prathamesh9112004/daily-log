@@ -2238,3 +2238,11 @@
 - [One of the Greatest Inventions in the History of Human Transport](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html)
 - [Colorfigures](https://april-zhu.com/colorfigures)
 
+## 2026-10-26 18:02 UTC
+
+- [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
+- [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
+- [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
+- [The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)
+- [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
+
