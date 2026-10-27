@@ -2270,3 +2270,11 @@
 - [AI promised less work. I've never worked more](https://oioannou.com/blog/ai-promised-less-work/)
 - [Wikipedia's Cleanup of AI-Generated Content](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
 
+## 2026-10-27 17:10 UTC
+
+- [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+- [New iMac with M6](https://www.apple.com/imac/)
+- [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
+- [Wikipedia's Cleanup of AI-Generated Content](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
+- [The US government is hiding secret court ruling about how it spies on Americans](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/)
+
