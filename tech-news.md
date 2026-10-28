@@ -2294,3 +2294,11 @@
 - [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
 - [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
 
+## 2026-10-28 15:00 UTC
+
+- [Ten days later, Git on macOS still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
+- [The Agent SDK](https://cursor.com/blog/agent-sdk)
+- [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
+- [Start Doing Graph Theory](https://vertex.degree/)
+- [ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History](https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/)
+
