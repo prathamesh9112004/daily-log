@@ -2302,3 +2302,11 @@
 - [Start Doing Graph Theory](https://vertex.degree/)
 - [ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History](https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/)
 
+## 2026-10-28 17:45 UTC
+
+- [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+- [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
+- [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)
+- [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)
+- [Start Doing Graph Theory](https://vertex.degree/)
+
