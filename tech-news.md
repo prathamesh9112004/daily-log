@@ -2374,3 +2374,11 @@
 - [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
 - [The federated code forge](https://tangled.org/blog/forge/)
 
+## 2026-10-30 20:35 UTC
+
+- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
+- [Northflank Breached](https://status.northflank.com)
+- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
+- [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)
+- [Bunny CDN Security Incident](https://status.bunny.net/incidents/p6gf1by9kr7m)
+
