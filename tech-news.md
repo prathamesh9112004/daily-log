@@ -2350,3 +2350,11 @@
 - [Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang](https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/)
 - [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
 
+## 2026-10-30 09:05 UTC
+
+- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
+- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
+- [Cuis: The Modern Smalltalk-80](https://cuis.st/)
+- [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm)
+- [I'm so bad at billiards that I ended up in the hyperbolic plane [video]](https://www.youtube.com/watch?v=kL9BTbIGxLg)
+
