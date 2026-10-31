@@ -2390,3 +2390,11 @@
 - [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)
 - [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
 
+## 2026-10-31 14:27 UTC
+
+- [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)
+- [Molly(Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
+- [Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)
+- [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
+- [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
+
