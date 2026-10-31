@@ -2406,3 +2406,11 @@
 - [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
 - [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)
 
+## 2026-10-31 19:47 UTC
+
+- [GPT-5.6 Sol can beat Factorio on peaceful mode](https://ryanmadden.net/gpt-56-beats-factorio/)
+- [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html)
+- [It's the Memory Latency, Stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/)
+- [Molly (Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
+- [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4)
+
