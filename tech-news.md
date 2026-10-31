@@ -2382,3 +2382,11 @@
 - [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)
 - [Bunny CDN Security Incident](https://status.bunny.net/incidents/p6gf1by9kr7m)
 
+## 2026-10-31 08:58 UTC
+
+- [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
+- [Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)
+- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
+- [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)
+- [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
+
