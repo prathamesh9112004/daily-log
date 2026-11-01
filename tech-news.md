@@ -2414,3 +2414,11 @@
 - [Molly (Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
 - [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4)
 
+## 2026-11-01 09:48 UTC
+
+- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
+- [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
+- [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+- [Running a bootstrapped SaaS for 20 years with my brother](https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/)
+- [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
+
