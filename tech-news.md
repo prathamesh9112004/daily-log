@@ -2438,3 +2438,11 @@
 - [Proving and improving the Platonic Representation Hypothesis with JEPAs](https://arxiv.org/abs/2610.39302)
 - [Police chief unplugs Flock cameras after company ignores contract cancellation](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies)
 
+## 2026-11-01 20:21 UTC
+
+- [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
+- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
+- [Copper – A minimal low-level programming language with OOP and generics](https://tibleiz.net/copper/)
+- [Police chief unplugs Flock cameras after company ignores contract cancellation](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies)
+- [Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
+
