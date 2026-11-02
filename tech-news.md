@@ -2454,3 +2454,11 @@
 - [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
 - [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
 
+## 2026-11-02 18:08 UTC
+
+- [Show HN: Subvocal – Talk to your computer without making noise](https://subvocal.company/)
+- [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/)
+- [Show HN: Warsaw in voxels – an interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/)
+- [Ask HN: Who is hiring? (November 2026)](https://news.ycombinator.com/item?id=50338728)
+- [My Favourite Laptop](https://blog.jsbarretto.com/post/laptop)
+
