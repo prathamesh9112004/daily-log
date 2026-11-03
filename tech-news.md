@@ -2486,3 +2486,11 @@
 - [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
 - [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
 
+## 2026-11-03 16:02 UTC
+
+- [The 'Astra can read and write weights to improve Qwen' post is misleading](https://honnibal.dev/blog/astra-read-write-misleading)
+- [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
+- [Octomind – open-source AI harness that saves your tokens, static rust](https://github.com/Muvon/octomind)
+- [Quili AI](https://www.quili.ai/)
+- [No Brother of Mine Will Play the Flute](https://homosabiens.substack.com/p/no-brother-of-mine-will-play-the)
+
