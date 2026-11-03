@@ -2478,3 +2478,11 @@
 - [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088)
 - [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)
 
+## 2026-11-03 10:09 UTC
+
+- [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
+- [Nvidia – open-source auto-ontology](https://github.com/NVIDIA/auto-ontology)
+- [Toit v2.0.0](https://toit.io/blog/toit-v2-0-0/)
+- [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
+- [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+
