@@ -2534,3 +2534,11 @@
 - [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
 - [A new Go API for JSON](https://go.dev/blog/jsonv2)
 
+## 2026-11-05 09:56 UTC
+
+- [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
+- [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
+- [Images 2.6](https://openai.com/index/introducing-images-2-6/)
+- [Partial Operator Precedence](https://ziglang.org/devlog/2026/#2026-10-24)
+- [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
+
