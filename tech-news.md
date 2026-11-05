@@ -2550,3 +2550,11 @@
 - [MCP Explained](https://mcp-explained.com/)
 - [Download your favourite YouTube videos](https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/)
 
+## 2026-11-05 19:18 UTC
+
+- [sshole](https://sshhole.com)
+- [Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
+- [Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/)
+- [Window Sweaters](https://github.com/saragordic/window-sweaters)
+- [The Lisp curse, now coming to your ecosystem](https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html)
+
