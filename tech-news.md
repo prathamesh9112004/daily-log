@@ -2558,3 +2558,11 @@
 - [Window Sweaters](https://github.com/saragordic/window-sweaters)
 - [The Lisp curse, now coming to your ecosystem](https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html)
 
+## 2026-11-05 21:50 UTC
+
+- [Kagi Search for Everyone](https://kagi.com/changelog)
+- [sshole](https://sshhole.com)
+- [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
+- [Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
+- [The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/)
+
