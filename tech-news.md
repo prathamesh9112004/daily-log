@@ -2582,3 +2582,11 @@
 - [Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI)
 - [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
 
+## 2026-11-06 18:44 UTC
+
+- [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)
+- [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
+- [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html)
+- [Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web](https://github.com/anomalyco/rune)
+- [Size-It-Up (Game)](https://magnitudle.com/size-it-up)
+
