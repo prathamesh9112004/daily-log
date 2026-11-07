@@ -2622,3 +2622,11 @@
 - [How Long Can Life Wait?](https://mceglowski.substack.com/p/how-long-can-life-wait)
 - [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
 
+## 2026-11-07 20:00 UTC
+
+- [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)
+- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
+- [Apple’s grey list: Words and phrases your iPhone won’t help you spell](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)
+- [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
+- [MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/)
+
