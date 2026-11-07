@@ -2606,3 +2606,11 @@
 - [The Components of Agent Memory](https://www.anthropic.com/research/components-of-agent-memory)
 - [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
 
+## 2026-11-07 14:49 UTC
+
+- [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
+- [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
+- [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
+- [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
+- [Running a law firm on Free software](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/)
+
