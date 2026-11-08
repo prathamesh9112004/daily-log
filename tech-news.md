@@ -2630,3 +2630,11 @@
 - [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
 - [MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/)
 
+## 2026-11-08 09:36 UTC
+
+- [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
+- [Agent memory needs its OpenTelemetry moment](https://www.lorekit.io/blog/open-agent-memory-format)
+- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
+- [Clj.rs – a Clojure dialect implemented in Rust](https://clj.rs/)
+- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
+
