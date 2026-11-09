@@ -2678,3 +2678,11 @@
 - [Our Smallest, Most Efficient Model: Muse Ember](https://research.meta.ai/blog/muse-ember)
 - [When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385](https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/)
 
+## 2026-11-09 21:48 UTC
+
+- [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
+- [E-means: 10x faster k-means at equal loss](https://e-means.github.io/)
+- [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
+- [Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2)
+- [Our Smallest, Most Efficient Model: Muse Ember](https://research.meta.ai/blog/muse-ember)
+
