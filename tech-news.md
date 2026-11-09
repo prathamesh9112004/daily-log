@@ -2662,3 +2662,11 @@
 - [How I Fight AI Brain Fry](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
 - [Declarative Dragging](https://declarative-dragging.github.io/)
 
+## 2026-11-09 10:26 UTC
+
+- [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
+- [Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)
+- [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
+- [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
+- [PixelOS](https://pixelos.net/)
+
