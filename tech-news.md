@@ -2670,3 +2670,11 @@
 - [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
 - [PixelOS](https://pixelos.net/)
 
+## 2026-11-09 18:38 UTC
+
+- [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
+- [Fold Epic Paper Airplanes](https://www.foldableflight.com)
+- [Magenta solar panels may be agrivoltaics' cleverest trick yet](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/)
+- [Our Smallest, Most Efficient Model: Muse Ember](https://research.meta.ai/blog/muse-ember)
+- [When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385](https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/)
+
