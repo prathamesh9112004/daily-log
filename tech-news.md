@@ -2710,3 +2710,11 @@
 - [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
 - [Gemini 4 Carbon is now available](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/)
 
+## 2026-11-10 19:09 UTC
+
+- [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
+- [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
+- [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
+- [Val Town is winding down](https://blog.val.town/winding-down)
+- [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
+
