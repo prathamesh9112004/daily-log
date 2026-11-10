@@ -2694,3 +2694,11 @@
 - [Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2)
 - [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
 
+## 2026-11-10 10:31 UTC
+
+- [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
+- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+- [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/)
+- [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
+- [Your TV can see through walls](https://maurycyz.com/projects/fading/)
+
