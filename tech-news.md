@@ -2702,3 +2702,11 @@
 - [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
 - [Your TV can see through walls](https://maurycyz.com/projects/fading/)
 
+## 2026-11-10 16:20 UTC
+
+- [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
+- [The Hardest Tarball?](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
+- [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
+- [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
+- [Gemini 4 Carbon is now available](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/)
+
