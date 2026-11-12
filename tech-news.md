@@ -2774,3 +2774,11 @@
 - [Talking Zen 6 with Mike Clark at AMD In-Depth](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at)
 - [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
 
+## 2026-11-12 19:23 UTC
+
+- [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
+- [Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)
+- [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
+- [Ask HN: Microsoft/Azure Outage?](https://news.ycombinator.com/item?id=50471668)
+- [Outlook is down, and so is Microsoft's status page](https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/)
+
