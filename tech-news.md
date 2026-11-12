@@ -2758,3 +2758,11 @@
 - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
 - [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
 
+## 2026-11-12 10:22 UTC
+
+- [Jane Street: Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)
+- [A live tree of systemd jobs on the boot console](https://codeberg.org/wvhulle/bootvine)
+- [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
+- [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
+- [Legocam: My Lego webcam from 2000, working on a modern Mac](https://blog.benjamin.ie/legocam)
+
