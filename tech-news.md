@@ -2782,3 +2782,11 @@
 - [Ask HN: Microsoft/Azure Outage?](https://news.ycombinator.com/item?id=50471668)
 - [Outlook is down, and so is Microsoft's status page](https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/)
 
+## 2026-11-12 22:08 UTC
+
+- [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
+- [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
+- [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
+- [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
+- [Foundation Models Framework (macOS)](https://developer.apple.com/foundation-models-framework/)
+
