@@ -2766,3 +2766,11 @@
 - [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
 - [Legocam: My Lego webcam from 2000, working on a modern Mac](https://blog.benjamin.ie/legocam)
 
+## 2026-11-12 16:43 UTC
+
+- [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)
+- [Anthropic IPO](https://ipo.anthropic.com/us/)
+- [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
+- [Talking Zen 6 with Mike Clark at AMD In-Depth](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at)
+- [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
+
