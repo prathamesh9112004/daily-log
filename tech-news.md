@@ -2814,3 +2814,11 @@
 - [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
 - [Show HN: Isometric SF – A pixel-art map of the SF Bay Area](https://isometricsf.com/)
 
+## 2026-11-13 21:50 UTC
+
+- [FAA Issues National Ground Stop](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111)
+- [$11.4M in Nvidia hardware vanishes during shipment from CA to TX](https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas)
+- [Big tech is here to let us down](https://blog.jsweeting.me/big-tech-is-here-to-let-us-down)
+- [FM-1 Workbench](https://open.m-vave.com/fm1-workbench)
+- [After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa)
+
