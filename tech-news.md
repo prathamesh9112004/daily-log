@@ -2790,3 +2790,11 @@
 - [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
 - [Foundation Models Framework (macOS)](https://developer.apple.com/foundation-models-framework/)
 
+## 2026-11-13 10:07 UTC
+
+- [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
+- [IceWM](https://ice-wm.org/)
+- [The Dawn of the Data Intelligence Engineer](https://motherduck.com/blog/the-data-intelligence-engineer/)
+- [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
+- [Brave Search API now accepts agentic payments via the x402 protocol](https://brave.com/blog/search-api-agentic-payments/)
+
