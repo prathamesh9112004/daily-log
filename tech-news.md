@@ -2854,3 +2854,11 @@
 - [KDE: The documentary [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
 - [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
 
+## 2026-11-15 09:58 UTC
+
+- [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
+- [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
+- [A rare glimpse inside the high-risk, high-reward Hormuz trade](https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade)
+- [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal)
+- [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775)
+
