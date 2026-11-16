@@ -2902,3 +2902,11 @@
 - [Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings](http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/)
 - [How to make almost anything](https://pub.cba.mit.edu/863.26/site/)
 
+## 2026-11-16 21:29 UTC
+
+- [Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
+- [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
+- [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)
+- [Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame)
+- [Rust changed me as a developer](https://blog.startifact.com/posts/how-rust-changed-me/)
+
