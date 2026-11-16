@@ -2886,3 +2886,11 @@
 - [The MacBook Pro's OLED PWM problem](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
 - [Eclipse Mosquitto – An open source MQTT broker](https://github.com/eclipse-mosquitto/mosquitto)
 
+## 2026-11-16 10:12 UTC
+
+- [How to make almost anything](https://pub.cba.mit.edu/863.26/site/)
+- [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
+- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
+- [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
+- [Researchers track whole body movement with just a smartwatch](https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch)
+
