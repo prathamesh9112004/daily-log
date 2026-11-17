@@ -2942,3 +2942,11 @@
 - [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
 - [350 years ago, this man discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
 
+## 2026-11-17 23:24 UTC
+
+- [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
+- [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+- [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
+- [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
+- [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
+
