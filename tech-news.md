@@ -2910,3 +2910,11 @@
 - [Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame)
 - [Rust changed me as a developer](https://blog.startifact.com/posts/how-rust-changed-me/)
 
+## 2026-11-17 00:04 UTC
+
+- [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
+- [BugMeNot has closed](https://www.bugmenot.com/)
+- [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
+- [How to Break into Security, Ptacek Edition (2012)](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
+- [World's Largest Brands Infected With Malware Via Optimizely](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
+
