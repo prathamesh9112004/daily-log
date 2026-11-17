@@ -2934,3 +2934,11 @@
 - [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
 - [First Photos of the Poles of a Rod-Shaped Bacterium](https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664)
 
+## 2026-11-17 20:18 UTC
+
+- [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+- [Apple Services Down](https://developer.apple.com/system-status/)
+- [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
+- [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
+- [350 years ago, this man discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
+
