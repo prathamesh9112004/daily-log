@@ -2974,3 +2974,11 @@
 - [Scottish HTTP Codes](https://underwood.network/http/scots.html)
 - [Inside Deutsche Bank](https://www.inside-db.com/)
 
+## 2026-11-18 22:53 UTC
+
+- [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
+- [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
+- [Inside Deutsche Bank](https://www.inside-db.com/)
+- [DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1](https://www.radixark.com/blog/daisyrose-27b)
+
