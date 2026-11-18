@@ -2958,3 +2958,11 @@
 - [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
 - [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
 
+## 2026-11-18 17:07 UTC
+
+- [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+- [Inside Deutsche Bank](https://www.inside-db.com/)
+- [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
+- [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
+- [CVE-2026-99312: KVM Guest-to-Host Escape](https://www.terra.security/blog/kvm-guest-to-host-escape)
+
