@@ -2966,3 +2966,11 @@
 - [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
 - [CVE-2026-99312: KVM Guest-to-Host Escape](https://www.terra.security/blog/kvm-guest-to-host-escape)
 
+## 2026-11-18 19:48 UTC
+
+- [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+- [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
+- [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
+- [Scottish HTTP Codes](https://underwood.network/http/scots.html)
+- [Inside Deutsche Bank](https://www.inside-db.com/)
+
