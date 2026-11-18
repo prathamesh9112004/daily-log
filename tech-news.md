@@ -2950,3 +2950,11 @@
 - [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
 - [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
 
+## 2026-11-18 10:47 UTC
+
+- [Codeberg.org Not Reachable](https://social.anoxinon.de/@codebergstatus/117636437840688845)
+- [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
+- [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)
+- [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
+- [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
+
