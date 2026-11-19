@@ -3006,3 +3006,11 @@
 - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
 - [Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest](https://cornholenews.news)
 
+## 2026-11-19 22:57 UTC
+
+- [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
+- [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
+- [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
+- [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
+- [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine)
+
