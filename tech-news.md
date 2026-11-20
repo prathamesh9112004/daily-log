@@ -3022,3 +3022,11 @@
 - [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1)
 - [µ-Wire – USB on an ATtiny 10](https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/)
 
+## 2026-11-20 16:53 UTC
+
+- [I'll never buy Framework hardware again](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/)
+- [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
+- [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
+- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
+- [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
+
