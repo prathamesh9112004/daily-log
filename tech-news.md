@@ -3014,3 +3014,11 @@
 - [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
 - [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine)
 
+## 2026-11-20 10:37 UTC
+
+- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
+- [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)
+- [The Strongest Sokoban Solver](https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver)
+- [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1)
+- [µ-Wire – USB on an ATtiny 10](https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/)
+
