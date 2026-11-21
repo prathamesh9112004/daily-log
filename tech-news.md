@@ -3046,3 +3046,11 @@
 - [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
 - [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
 
+## 2026-11-21 10:18 UTC
+
+- [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
+- [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
+- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
+- [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
+- [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
+
