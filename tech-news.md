@@ -3102,3 +3102,11 @@
 - [Open Social Web Alliance](https://osw-alliance.net/en/)
 - [I joined the NTP Pool, but not with my Stratum 1 Pi](https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/)
 
+## 2026-11-22 21:37 UTC
+
+- [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
+- [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)
+- [Nyx, the Oldest Internet Service Provider](https://nyx.net/)
+- [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+- [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
+
