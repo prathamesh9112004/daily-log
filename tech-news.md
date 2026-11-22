@@ -3086,3 +3086,11 @@
 - [Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)
 - [Sandwich Simulator](https://stulle.app/)
 
+## 2026-11-22 16:09 UTC
+
+- [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+- [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
+- [A better internet for everyone is possible. Today](https://osw-alliance.net/en/)
+- [A real Linux kernel, compiled to WebAssembly](https://github.com/pithings/unkernel)
+- [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
+
