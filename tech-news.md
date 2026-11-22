@@ -3094,3 +3094,11 @@
 - [A real Linux kernel, compiled to WebAssembly](https://github.com/pithings/unkernel)
 - [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
 
+## 2026-11-22 18:54 UTC
+
+- [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)
+- [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+- [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
+- [Open Social Web Alliance](https://osw-alliance.net/en/)
+- [I joined the NTP Pool, but not with my Stratum 1 Pi](https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/)
+
