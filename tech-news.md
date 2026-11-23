@@ -3110,3 +3110,11 @@
 - [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
 - [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
 
+## 2026-11-23 11:22 UTC
+
+- [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4)
+- [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux)
+- [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
+- [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
+- [Yes, 17M lines of Lean is a lot](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
+
