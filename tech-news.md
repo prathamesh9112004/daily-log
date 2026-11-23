@@ -3118,3 +3118,11 @@
 - [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
 - [Yes, 17M lines of Lean is a lot](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
 
+## 2026-11-23 20:01 UTC
+
+- [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
+- ["Per ARM's Request, This Site Will Be Discontinued on 4 December 2026"](https://arm.jonpalmisc.com/)
+- [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
+- [GLM-5.4: Toward generalized coding with our first loop transformer](https://z.ai/blog/glm-5.4)
+- [NariQ: BF16-level Qwen3.8-27B in a 10 GB file](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF)
+
