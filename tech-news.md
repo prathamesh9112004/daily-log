@@ -3150,3 +3150,11 @@
 - [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)
 - [Worshipping at the Altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
 
+## 2026-11-24 19:27 UTC
+
+- [Active Intrusion Campaign Against Check Point Security Management Servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
+- [What Cloudflare Doesn't Tell You](https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/)
+- [Jetty Pro](http://hypercritical.co/2026/11/23/jetty-pro)
+- [Mechanical Pencil: Spray Bottle](https://mechanical-pencil.com/products/spray-bottle)
+- [OpenAI reveals they solved VP ≠ VNP before Anthropic](https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026)
+
