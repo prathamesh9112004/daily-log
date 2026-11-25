@@ -3166,3 +3166,11 @@
 - [The Spray Bottle](https://mechanical-pencil.com/products/spray-bottle)
 - [Working with AI](https://www.anthropic.com/research/working-with-ai)
 
+## 2026-11-25 00:27 UTC
+
+- [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
+- [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)
+- [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426)
+- [Get in, friends, the Atmosphere is happening](https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9)
+- [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
+
