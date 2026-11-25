@@ -3174,3 +3174,11 @@
 - [Get in, friends, the Atmosphere is happening](https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9)
 - [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
 
+## 2026-11-25 11:47 UTC
+
+- [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
+- [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
+- [The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map](https://marioschlosser.org/riemann/)
+- [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
+- [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being)
+
