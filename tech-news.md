@@ -3222,3 +3222,11 @@
 - [NP_R ≠ PAR_R](https://github.com/samueleverett01/bss-permanent-separations)
 - [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
 
+## 2026-11-26 20:46 UTC
+
+- [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
+- [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
+- [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
+- [The USA as a Civilizations-esque map](https://karpathy.ai/usaciv/)
+- [OpenAI may be in cost control mode](https://micjm.com/blog/openai-is-in-cost-control-mode/)
+
