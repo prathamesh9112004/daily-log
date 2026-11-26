@@ -3206,3 +3206,11 @@
 - [The New York Times tells photographers not to use the latest Photoshop](https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/)
 - [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
 
+## 2026-11-26 11:34 UTC
+
+- [Intel One Mono font](https://github.com/intel/intel-one-mono)
+- [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)
+- [Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](https://techstackups.com/articles/google-workspace-ai-agents-mcp/)
+- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
+- [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat)
+
