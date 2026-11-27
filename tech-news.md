@@ -3238,3 +3238,11 @@
 - [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
 - [CTO of 'RansomwareHelp' indicted for wire fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
 
+## 2026-11-27 11:28 UTC
+
+- [The group chat where your AI talks behind your back](https://construct22.com/)
+- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
+- [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
+- [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
+- [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp)
+
