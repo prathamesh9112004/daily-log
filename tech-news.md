@@ -3270,3 +3270,11 @@
 - [Source Control from Hell](https://frantic.im/git/)
 - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
 
+## 2026-11-28 10:57 UTC
+
+- [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev)
+- [Loom seamlessly combines weaving, knitting and braiding](https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding)
+- [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
+- [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh)
+- [Knuth: Moratorium on Error Reports](https://www-cs-faculty.stanford.edu/~knuth/moratorium.html)
+
